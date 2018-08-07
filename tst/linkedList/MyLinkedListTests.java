@@ -1,4 +1,5 @@
-import LinkedList.MyLinkedList;
+package linkedList;
+
 import org.junit.jupiter.api.Test;
 
 /**

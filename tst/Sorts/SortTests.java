@@ -1,9 +1,9 @@
-package Sorts;
+package sorts;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static Sorts.SortCommons.printArray;
+import static sorts.SortCommons.printArray;
 
 /**
  * Created by nisar on 05-08-2018.
